@@ -1,7 +1,12 @@
 # Data Engineering with AWS Part 1
-This is the repository for the LinkedIn Learning course `Data Engineering with AWS Part 1`. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course Data Engineering with AWS Part 1. The full course is available from [LinkedIn Learning][lil-course-url].
 
-_See the readme file in the main branch for updated instructions and information._
+![Data Engineering with AWS Part 1][lil-thumbnail-url] 
+
+Businesses need data experts—now more than ever before. As data-driven decision-making has risen to boardroom prominence, the role of the data expert has become essential to understanding and scaling a business. In this course—the first in a two-part series—instructor Dipali Kulshrestha shows you how to get started on your professional journey and grow your career as a data engineer with AWS.
+
+Get an introduction to the field of data engineering and why it’s so important in today’s business world. Explore a variety of data types, data lakes, data sources, and how to use built-in AWS components such as DynamoDB, Kinesis, and S3 to store and manage your streams. Find out how to leverage the full power of an end-to-end data engineering pipeline, from selecting and configuring ingestion patterns, to storing data for analytic processing with S3. Test your new skills along the way in the hands-on data challenges at the end of each section.
+
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
@@ -20,15 +25,16 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+
+### Instructor
+
+Dipali Kulshrestha 
+                            
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+                            
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/dipali-kulshrestha).
 
+[lil-course-url]: https://www.linkedin.com/learning/data-engineering-with-aws-part-1?dApp=59033956
+[lil-thumbnail-url]: https://cdn.lynda.com/course/3010976/3010976-1664986900593-16x9.jpg
